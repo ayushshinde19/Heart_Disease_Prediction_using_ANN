@@ -1,0 +1,15 @@
+# Data Manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Deep Learning
+scikit-learn
+tensorflow
+keras
+
+# Notebook Environment
+ipykernel
